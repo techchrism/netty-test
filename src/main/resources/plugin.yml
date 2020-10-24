@@ -1,0 +1,5 @@
+name: NettyTest
+version: ${project.version}
+api-version: 1.13
+main: me.techchrism.nettytest.NettyTest
+author: Techdoodle
